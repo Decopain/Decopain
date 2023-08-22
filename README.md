@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jeff! <br/><a href="https://github.com/joshmadakor1">Data & ML Engineer</a>, <a href="">DayTrading Professional</a></h1>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
