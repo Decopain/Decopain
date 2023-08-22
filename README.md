@@ -5,8 +5,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Real World Application of BUsiness Soluution Using ML Modeling</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-
+  - [Insurance Leads Quality](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- <b>I’m currently working on Time series Prdiction Models</b>
+  - [Binary Random Forrest Classifier](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -20,7 +21,6 @@
 [linkedin]: "https://www.linkedin.com/in/jefferson-decopain-1318b795/"
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
