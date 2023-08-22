@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! <br/><a href="https://github.com/joshmadakor1">Data & ML Engineer</a>, <a href="">DayTrading Professional</a></h1>
+<h1>Hi, I'm Jeff! <br/><a href="https://github.com/joshmadakor1">Data & ML Engineer</a>, <a href="">Certified Scrum Master</a>, <a href="">DayTrading Professional</a></h1>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
