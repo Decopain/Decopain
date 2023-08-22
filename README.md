@@ -18,7 +18,7 @@
 
 
 [instagram]: ""
-[linkedin]: "https://www.linkedin.com/in/jefferson-decopain-1318b795/"
+[linkedin]: https://www.linkedin.com/in/jefferson-decopain-1318b795/
 
 <!--
 
