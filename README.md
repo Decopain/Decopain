@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Real World Application of Business Soluution Using ML Modeling</b>
   - [Insurance Leads Quality](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>I’m currently working on Time series Prediction Models</b>
+- <b>I’m currently working on Time series Prediction Models (Part of a DQN Model)</b>
   - [Binary Random Forrest Classifier](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
 <h2>👨‍💻 Independent Engineering Projects:</h2>
