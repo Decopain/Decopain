@@ -4,11 +4,15 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Real World Application of BUsiness Soluution Using ML Modeling</b>
+- <b>Real World Application of Business Soluution Using ML Modeling</b>
   - [Insurance Leads Quality](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>I’m currently working on Time series Prediction Models</b>
   - [Binary Random Forrest Classifier](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
+<h2>👨‍💻 Independent Engineering Projects:</h2>
+
+- <b>Generative Art and Smart Contract Project (Polygon Network)</b>
+  - [Mona Lisa NFT Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
