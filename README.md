@@ -5,7 +5,7 @@
 - <b>Real World Business Soluutions Application of Using ML Modeling</b>
   - [Insurance Leads Quality](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>I’m currently working on Time series Prediction Models (Part of a DQN ensamble)</b>
-  - [Binary Random Forrest Classifier](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification.git) <b><i></b></i>
+  - [Random Forrest Classifier and XGBoost Hybrid Ensamble for Binary Classification](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification.git) <b><i></b></i>
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
