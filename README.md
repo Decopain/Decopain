@@ -15,7 +15,7 @@
 <h2>👨‍💻 Independent Engineering Projects:</h2>
 
 - <b>Generative Art and Smart Contract Project (Polygon Network)</b>
-  - [Mona Lisa NFT Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mona Lisa NFT Project](https://github.com/Decopain/Meta-Mona-Lisa.git)
 
 <h2> 🤳 Connect with me:</h2>
 
