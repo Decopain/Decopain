@@ -9,10 +9,10 @@
 - <b>Machine Learning Practice </b>
   - [Machine Learning Practice in Python](https://github.com/Decopain/Machine-Learnig-Practice.git)<b><i></b></i>
     
-<h2> 👨‍💻 Software Development Projects:</h2>
+<h2> 👨‍💻 Quantitative Algorithms Research Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Using Quantitative Algorithms Research to Evaluate Model Performance</b>
+  - [Trading Model Performance Evaluatation Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Independent Engineering Projects:</h2>
 
