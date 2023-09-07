@@ -12,7 +12,7 @@
 <h2> 👨‍💻 Quantitative Algorithms Research Projects:</h2>
 
 - <b>Using Quantitative Algorithms Research to Evaluate Model Performance</b>
-  - [Trading Model Performance Evaluatation Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Trading Model Performance Evaluatation Algos in Python](https://github.com/Decopain/Trading-Model-Performance.git)
 
 <h2>👨‍💻 Independent Engineering Projects:</h2>
 
