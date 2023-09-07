@@ -7,7 +7,7 @@
 - <b>I’m currently working on Time series Prediction Models (Part of a DQN ensamble)</b>
   - [Random Forrest Classifier and XGBoost Hybrid Ensamble for Binary Classification](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification.git) <b><i></b></i>
 - <b>Machine Learning Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Machine Learning Practice in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Decopain/Machine-Learnig-Practice.git))
     
 <h2> 👨‍💻 Software Development Projects:</h2>
 
