@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Real World Business Soluutions Application of Using ML Modeling</b>
-  - [Retail Demand Prediction using Machine Learning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Retail Demand Prediction using Machine Learning](https://github.com/Decopain/Testing-Final-Models-and-Feature-Importance) <b><i></b></i>
 - <b>I’m currently working on Time series Prediction Models (Part of a DQN ensamble)</b>
   - [Random Forrest Classifier and XGBoost Hybrid Ensamble for Binary Classification](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification.git) <b><i></b></i>
 - <b>Machine Learning Practice </b>
