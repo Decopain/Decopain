@@ -6,7 +6,7 @@
   - [Retail Demand Prediction using Machine Learning](https://github.com/Decopain/Testing-Final-Models-and-Feature-Importance) <b><i></b></i>
 - <b>I’m currently working on Time series Prediction Models (Part of a DQN ensamble)</b>
   - [Random Forrest Classifier and XGBoost Hybrid Ensamble for Binary Classification](https://github.com/Decopain/Random-Forrest-Classifier-and-XGBoost-Hybrid-Ensamble-for-Binary-Classification.git) <b><i></b></i>
-- <b>More Time Series Forecasting Practice </b>
+- <b>Time Series Forecasting Practice </b>
   - [Time Series Forecasting](https://github.com/Decopain/Time-Series-Forecasting)<b><i></b></i>
 - <b>Machine Learning Practice </b>
   - [Machine Learning Practice in Python](https://github.com/Decopain/Machine-Learnig-Practice.git)<b><i></b></i>
